@@ -1,6 +1,6 @@
 //general variables
 let cols, rows;
-let w = 100 //width of the cells. change for bigger/smaller maze.
+let w = 50 //width of the cells. change for bigger/smaller maze.
 let grid = [];
 
 
