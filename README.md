@@ -5,3 +5,5 @@ This repository contains the exported website of the p5.js editor, showing some 
 - sketch.js
 - cell.js
 - unionfind.js (used for kruskal)
+
+# The live Demo is hosted [here](https://neb-bk.github.io/mazes-p5/)
